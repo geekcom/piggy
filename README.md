@@ -7,4 +7,4 @@
 - [ ] Controllers;
 - [ ] Routes;
 - [ ] Documentation;
-- [ ] Tests;
+- [ ] Tests.
