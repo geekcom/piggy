@@ -1,7 +1,7 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "name": "geekcom/piggy",
+    "description": "Personal finance api like a piggy bank.",
+    "keywords": ["piggy", "api", "finance", "personal-finance", "piggy-bank"],
     "license": "MIT",
     "type": "project",
     "require": {
