@@ -18,7 +18,7 @@
 
     `git commit -m "My commit message"`
 
-6. Push to the branch 
+6. Push
 
     `git push origin my_new_feature`
 
