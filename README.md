@@ -1,10 +1,18 @@
-# Piggy API
+# Piggy - Personal Finances
+
+### Stack
+
+MySQL 8, PHP 7.4, Lumen Framework.
+
+### Development roadmap 
 
 - [ ] Database;
 - [ ] Migrations;
-- [ ] Models/Entities;
+- [ ] Models;
+- [ ] Contracts/Interfaces;
 - [ ] Repositories;
 - [ ] Controllers;
+- [ ] Middleware;
 - [ ] Routes;
-- [ ] Documentation;
-- [ ] Tests.
+- [ ] Tests;
+- [ ] Documentation.
